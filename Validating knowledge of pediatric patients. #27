@@ -1,0 +1,13 @@
+As a pediatric patient,
+I want to finish a short quiz,
+so that I can review if my understanding of what I have learned is correct.
+
+Sub Hill 3: The patient finishes a module by exploring each part and viewing the
+animated video and the short quiz post that would gauze what have
+they learned.
+
+
+Acceptance Criteria:
+Given:I am a pediatric patient at the hospital
+When:I finish watching the whole module of a bodily system
+Then:tested by my performance in the quiz  
