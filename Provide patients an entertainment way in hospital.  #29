@@ -1,0 +1,17 @@
+As a patient,
+I want the videos to be engaging and informative, 
+So that I will have more knowledge when I finish the module
+Sub hill 3: The patient finishes a module by exploring each part and viewing the animated video and the short quiz post that would gauze what have they learned.
+
+
+Acceptance Criteria 1:
+Given:I am pediatric patient in the hospital
+When: I click on the AR trigger to start the video module
+Then: I get to watch the video and do quizzes post watching 
+
+
+Acceptance Criteria 2:
+Given: I am pediatric patient in the hospital
+When:I click on the video triggered by the AR when I bringmy phone closer to the physical part
+Then: I get to watch the video and do quizzes post watching 
+ 
