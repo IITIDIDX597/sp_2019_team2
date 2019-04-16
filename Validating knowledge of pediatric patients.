@@ -9,4 +9,10 @@ animated video and the short quiz post that would gauze what have
 they learned.
 
 
-Scenario: 
+Scenario: User watches videos and completes quizzes 
+
+Given I'm in the role of a pediatric patient
+When I watch the videos played by Robe-E robots about STEM subjects
+Then the system provides some corresponding quizzes along with the videos 
+When I complete the quizzes
+Then the system shows Rube-E robots and correct answers" 
