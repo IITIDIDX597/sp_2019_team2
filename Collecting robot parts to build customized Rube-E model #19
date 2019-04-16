@@ -7,7 +7,7 @@ so that I can have a sense of accomplishment and be more confident to finalize m
 Sub Hill 5: Words of encouragement would follow to keep the user going forward for next steps.
 
 
-Scenario: User collects robots parts with the instruction on the screen 
+
 Given I'm a pediatric patient in the hospital
 When I have finished assembling my own Rube-E toy
 Then the system automatically saves the toy into my profile and display a firework animation with a "Congratulation!"
