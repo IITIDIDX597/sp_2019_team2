@@ -20,4 +20,4 @@ When I finish all the questions
 And I click the "Submit" button
 Then the system submits my answers 
 And the system shows the results of my answers 
-And the system gives a recommendation about my expertise level 
+And the system gives a recommendation about my expertise level" 
