@@ -1,0 +1,13 @@
+As a Pediatric patient,
+I want to sign into my Rube-E app and decide my expertise level
+So that I can build my Rube-E toy with customized content and at my own pace.
+
+Sub hill 1: The kids will engage with the application through signing-in with the smart device and decide their expertise level 
+
+
+Acceptance Criteria:
+
+GIVEN: I have a current profile already created for the Rube-E app 
+AND: I have opened the app 
+WHEN: I put in my login information such as username and password
+THEN: The system should validate my creditentials to log me into the application
