@@ -8,8 +8,7 @@ with it alone without requiring anyone help.
 
 Acceptance Criteria:
 
-GIVEN: I'm a patient sleeping by the bedside in the hospital
-AND: Nobody is around to help or assist
-WHEN: I want to lear and pass my time
+GIVEN: I'm a patient sleeping by the bedside in the hospital with nobody around to help or assist
+WHEN: I want to learn and pass my time
 THEN: I should still be able to interact with the physical Rube-E toy 
 
