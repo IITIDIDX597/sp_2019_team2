@@ -10,10 +10,10 @@ device and decide their expertise level
 
 Scenario: User finishes a quiz to decide his/her expertise level in (what aspect?)
 
-"Given I'm in a role of signed-in pediatric patient 
+"Given I'm in a role of the signed-in pediatric patient 
 When I enter the application for the first time
-Then the system shows me a seires of questions with word descriptions, pictures, videos, and options about (what aspect?)
-When I select a option for the first question after reading question and watching videos or pictures
+Then the system shows me a series of questions with word descriptions, pictures, videos, and options about (what aspect?)
+When I select an option for the first question after reading the question and watching videos or pictures
 Then the system shows the next question until the last one 
 And the system shows a progress bar consistently
 When I finish all the questions 
