@@ -16,10 +16,7 @@ Scenario:
 GIVEN: As a pediatric patient I have just completed watching a body part video. 
 THEN: A short quiz is opened after the video is closed.
 AND: The quiz has questions related to the body part video I have just watched. The question answers are presented in a multiple choice format. 
-IF: I select an answer it should highlight in "green" if it is correct. 
-AND: The quiz moves forward to the next question. 
-IF: I select an answer it should highlight in "red" if it is incorrect.
-AND: I should get a pop up message saying "Try Again" 
+
 
 
 Edge Cases:
@@ -29,7 +26,5 @@ THEN: The quiz moves to the next question.
 
 ONCE: The quiz is completed
 THEN: It should display the score and also pass or fail.
-IF: Passed the quiz the body part should unlock.
-ND: The user is directed to the dashboard.
-IF: Failed the quiz; body part remains locked.
 AND: The user is directed to the dashboard.
+
