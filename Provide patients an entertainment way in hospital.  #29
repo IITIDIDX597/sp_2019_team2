@@ -11,7 +11,7 @@ Then: I get to watch the video and do quizzes post watching
 
 
 Acceptance Criteria 2:
-Given: I am pediatric patient in the hospital
+Given: I am pediatric patient in the hospital 
 When:I click on the video triggered by the AR when I bringmy phone closer to the physical part
 Then: I get to watch the video and do quizzes post watching 
  
