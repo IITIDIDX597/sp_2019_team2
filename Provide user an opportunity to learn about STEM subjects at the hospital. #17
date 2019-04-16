@@ -15,3 +15,9 @@ WHEN: I have select a body part from the module
 THEN: I want to see a STEM subject video with information regarding that body part
 WHEN: I'm done watching the video
 THEN: I should be given an option to take a quiz for that video or rewatch the video
+
+
+
+Given: the module has a STEM related video with information regarding that body part
+When: I select a specific module related to that body part
+Then: A video plays and a quiz is shown to be completed
