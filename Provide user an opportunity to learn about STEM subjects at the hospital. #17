@@ -1,0 +1,17 @@
+As a pediatric patient,
+I want to learn about STEM subjects while I am in the hospital,
+So that I can take quizzes and keep up with my school work
+
+
+Sub Hill 3: The patient finishes a module by exploring each part and viewing the
+animated video and the short quiz post that would gauze what have
+they learned.
+
+
+Acceptance Criteria:
+
+GIVEN: I have looged in to the Rube-E application
+AND: I have selected a body part from the module
+THEN: I want to see a STEM subject video with information regarding that body part
+AND: Once I have watched the video
+THEN: I should be given an option to take a quiz for that video or rewatch the video
