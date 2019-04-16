@@ -13,18 +13,12 @@ Acceptance Criteria
 
 Scenario:
 
-GIVEN: As a pediatric patient I have just completed watching a body part video. 
+GIVEN: As a pediatric patient 
+WHEN: I have just completed watching a body part video. 
 THEN: A short quiz is opened after the video is closed.
-AND: The quiz has questions related to the body part video I have just watched. The question answers are presented in a multiple choice format. 
 
 
 
-Edge Cases:
 
-IF: A user gets the incorrect answer more than 3 times 
-THEN: The quiz moves to the next question. 
 
-ONCE: The quiz is completed
-THEN: It should display the score and also pass or fail.
-AND: The user is directed to the dashboard.
 
