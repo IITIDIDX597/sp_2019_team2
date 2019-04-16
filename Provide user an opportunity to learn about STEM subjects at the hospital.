@@ -15,3 +15,8 @@ When I watch the videos played by Robe-E robots about STEM subjects
 Then the system provides some corresponding quizzes along with the videos 
 When I complete the quizzes
 Then the system shows correct answers"  
+
+Accceptance Criteria 2 
+Given I'm a pediatric patient
+When I watch the videos played by Robe-E robots about STEM subjects
+Then the system provides corresponding quizzes, which when completed the system shows correct answers 
