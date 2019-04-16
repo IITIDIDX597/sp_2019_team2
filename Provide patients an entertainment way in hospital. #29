@@ -11,8 +11,7 @@ Acceptance Criteria:
 Scenario:
 
 GIVEN:I'm a Pediatric patient who is already signed into the Rube-E App
-AND: I'm on the dashboard part of the application
-NOW: I click on the body part I want to learn about
+WHEN: I click on the body part I want to learn about
 THEN: An engaging video should play pertaining to that body part
 
 
