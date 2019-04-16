@@ -1,6 +1,11 @@
+Provide patients an entertainment way in hospital.
+
 As a patient,
 I want the videos to be engaging and informative
 So that I will have more knowledge when I finish the module
 
 Sub hill 3: The patient finishes a module by exploring each part and viewing 
 the animated video and the short quiz post that would gauze what have they learned.
+
+Scenario: 
+"Given I'm a 
