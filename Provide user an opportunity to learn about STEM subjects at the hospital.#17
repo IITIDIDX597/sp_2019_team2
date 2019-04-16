@@ -9,7 +9,7 @@ Sub Hill 3: The patient finishes a module by exploring each part and viewing the
 animated video and the short quiz post that would gauze what have
 they learned.
 
-Accceptance Criteria 2 
+
 Given I'm a pediatric patient
 When I watch the videos played by Robe-E robots about STEM subjects
 Then the system provides corresponding quizzes, which when completed the system shows correct answers 
