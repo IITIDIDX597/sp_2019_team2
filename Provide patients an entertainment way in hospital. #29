@@ -14,13 +14,7 @@ GIVEN:I'm a Pediatric patient who is already signed into the Rube-E App
 AND: I'm on the dashboard part of the application
 NOW: I click on the body part I want to learn about
 THEN: An engaging video should play pertaining to that body part
-IF: I click on the "X" button at the top right corner
-THEN: The video should close
-IF: I click on the "pause" button 
-THEN: The video should freeze
-IF: I click on the "Rewind" or "Forward" button
-THEN: The video should rewind or forward by 10 seconds. 
-IF: The video reaches the end
-THEN: It should close automatically
+
+
 
 
