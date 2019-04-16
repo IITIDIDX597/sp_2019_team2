@@ -1,0 +1,12 @@
+As a pediatric patient,
+I want Rube-E to be accessible while I am in bed
+So that I can even lie down and interact with it directly without asking anyone to help me get it
+
+Sub Hill 6: The toy would be used by in-patient on their bedside and they can engage
+with it alone without requiring anyone help.
+
+
+Acceptance Criteria 
+Given: I am a pediatric patient
+When: it fits the table next to my bed
+Then: I can lay down on my bed and still be able to reach it
