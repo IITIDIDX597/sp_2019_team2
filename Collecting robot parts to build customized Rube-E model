@@ -18,3 +18,5 @@ Then the system shows "You're so brilliant! Keep going!"
 When I complete the whole task and finalize my own Rube-E toy
 Then the system displays a firework animation and "Congratulation!"
 And the system automatically saves the toy into my profile"
+
+This is a long acceptance criteria
