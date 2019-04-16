@@ -11,7 +11,7 @@ they learned.
 Acceptance Criteria:
 
 GIVEN: I have looged in to the Rube-E application
-AND: I have selected a body part from the module
+WHEN: I have select a body part from the module
 THEN: I want to see a STEM subject video with information regarding that body part
-AND: Once I have watched the video
+WHEN: I'm done watching the video
 THEN: I should be given an option to take a quiz for that video or rewatch the video
