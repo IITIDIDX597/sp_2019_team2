@@ -8,6 +8,5 @@ Sub hill 1: The kids will engage with the application through signing-in with th
 Acceptance Criteria:
 
 GIVEN: I have a current profile already created for the Rube-E app 
-AND: I have opened the app 
-WHEN: I put in my login information such as username and password
+WHEN: I put in my login information such as username and password on the log in page
 THEN: The system should validate my creditentials to log me into the application
