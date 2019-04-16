@@ -1,0 +1,27 @@
+As a pediatric patient,
+I want to be motivated throughout when I am collecting more robots parts over time
+so that I can have a sense of accomplishment and be more confident to finalize my own customized Rube-E toy.
+
+Sub Hill 5: Words of encouragement would follow to keep the user going forward for
+next steps.
+
+
+Acceptance Criteria:
+
+Scenario:1
+
+GIVEN: I have logged into the Rube-E application
+AND: I have been working on completing my module
+BUT: Have not intereacted with the application for a couple of days
+THEN: I want to recieve a push notification encouraging me to interact with the application
+
+
+
+Scenario:2 
+
+GIVEN: I have logged into the Rube-E application
+AND: I have just finished completeting one body part
+THEN: I want to see a message encouraging me to work on another body part
+
+
+
