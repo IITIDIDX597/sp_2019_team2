@@ -8,4 +8,5 @@ Sub Hill 6: The toy would be used by in-patient on their bedside and they can en
 with it alone without requiring anyone help.
 
 "Given I'm a pediatric patient,
-When I 
+When I lie down on the bed and want to play the toy
+Then I can get in touch with Rube-E because it is within the area where I can reach."
