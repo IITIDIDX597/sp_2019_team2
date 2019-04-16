@@ -1,6 +1,23 @@
+User can sign into the Rube-E application after creating a profile. 
+
 As a Pediatric patient,
 I want to sign into my Rube-E app and decide my expertise level
 So that I can build my Rube-E toy with customized content and at my own pace.
 
-Sub hill 1: The kids will engage with the application through signing-in with the smart device and decide their expertise level 
+Sub hill 1: The kids will engage with the application through signing-in with the smart 
+device and decide their expertise level 
 
+
+Scenario: User finishes a quiz to decide his/her expertise level in (what aspect?)
+
+"Given I'm in a role of signed-in pediatric patient 
+When I enter the application for the first time
+Then the system shows me a seires of questions with word descriptions, pictures, videos, and options about (what aspect?)
+When I select a option for the first question after reading question and watching videos or pictures
+Then the system shows the next question until the last one 
+And the system shows a progress bar consistently
+When I finish all the questions 
+And I click the "Submit" button
+Then the system submits my answers 
+And the system shows the results of my answers 
+And the system gives a recommendation about my expertise level 
