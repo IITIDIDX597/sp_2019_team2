@@ -1,0 +1,11 @@
+As a pediatric patient,
+I want to be motivated throughout when I am collecting more robots parts over time
+so that I can have a sense of accomplishment and be more confident to finalize my own customized Rube-E toy.
+
+Sub Hill 5: Words of encouragement would follow to keep the user going forward for
+next steps.
+
+Acceptance Criteria
+Given:I am pediatric patient at the hospital
+When: the app shows motivating words like good job, congratulations, you are just a step away over time
+Then:I am motivated to keep learning to get more Rube-E parts
