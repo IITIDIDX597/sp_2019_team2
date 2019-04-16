@@ -10,18 +10,12 @@ Acceptance Criteria:
 
 Scenario:1
 
-GIVEN: I have logged into the Rube-E application
-AND: I have been working on completing my module
-BUT: Have not intereacted with the application for a couple of days
+GIVEN: I have a profile on the Rube-E application
+WHEN: I have not intereacted with the application for a couple of days
 THEN: I want to recieve a push notification encouraging me to interact with the application
 
 
 
-Scenario:2 
-
-GIVEN: I have logged into the Rube-E application
-AND: I have just finished completeting one body part
-THEN: I want to see a message encouraging me to work on another body part
 
 
 
