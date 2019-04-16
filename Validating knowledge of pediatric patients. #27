@@ -1,4 +1,4 @@
-Story: Validating knowledge of pediatric patients.
+Validating knowledge of pediatric patients. #27
 
 As a pediatric patient,
 I want to finish a short quiz,
@@ -10,13 +10,6 @@ they learned.
 
 
 Scenario: User watches videos and completes quizzes 
-
-Given I'm in the role of a pediatric patient
-When I watch videos played by Robe-E robots about STEM subjects
-Then the system provides a corresponding quiz along with the videos 
-When I complete the quizzes
-Then the system shows correct answers" 
-
 
 Acceptance criteria 2
 Given I'm a pediatric patient
