@@ -5,3 +5,16 @@ I want to be motivated throughout when I am collecting more robots parts over ti
 so that I can have a sense of accomplishment and be more confident to finalize my own customized Rube-E toy.
 
 Sub Hill 5: Words of encouragement would follow to keep the user going forward for next steps.
+
+
+Scenario: User collects robots parts with the instruction on the screen 
+"Given I'm a pediatric patient in the hospital
+When I start collecting robots parts
+Then the system shows "You're great! Let's start to do it!"
+And the system displays a video instruction on the screen
+When I watch and close the video
+And I finish assembling the first part of the robot
+Then the system shows "You're so brilliant! Keep going!"
+When I complete the whole task and finalize my own Rube-E toy
+Then the system displays a firework animation and "Congratulation!"
+And the system automatically saves the toy into my profile"
