@@ -16,6 +16,6 @@ When:I click on the video triggered by the AR when I bringmy phone closer to the
 Then: I get to watch the video and do quizzes post watching 
  
 Acceptance Criteria 2.1
-Given: I am pediatric patient in the hospital
-When: I click on the video triggered by the AR acivated linked to a Rube-E body part
+Given: I am a pediatric patient in the hospital
+When: I click on the video triggered by the AR activated linked to a Rube-E body part
 Then: I get to watch the video and a follow-on quiz
