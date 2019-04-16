@@ -8,8 +8,8 @@ Sub hill 3: The patient finishes a module by exploring each part and viewing
 the animated video and the short quiz post that would gauze what have they learned.
 
 
-Scenario: 
-"Given I'm a pediatric patient in hospital waiting for the treatment
-When I watch videos played 
 
-This is incomplete
+"Given I'm a pediatric patient in hospital waiting for the treatment
+When I watch videos and touch the screen
+Then I can review other people's real-time comments and send my comments."
+
