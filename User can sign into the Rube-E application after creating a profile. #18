@@ -15,7 +15,8 @@ Then: the right content is recommended to me to choose
 
 
 Acceptance criteria 2
+
 Given: As a pediatric patient I have already signed up to the application 
-When: a set of questionnaire is presented to choose my expertise level 
+When: a set of the questionnaire is presented to choose my expertise level 
 Then: the system recommends content according to the result of the questionnaire
 
