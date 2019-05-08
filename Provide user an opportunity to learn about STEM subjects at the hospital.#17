@@ -1,0 +1,15 @@
+Provide user an opportunity to learn about STEM subjects at the hospital. #17
+
+As a pediatric patient,
+I want to learn about STEM subjects while I am in the hospital,
+So that I can take quizzes and keep up with my school work
+
+
+Sub Hill 3: The patient finishes a module by exploring each part and viewing the
+animated video and the short quiz post that would gauze what have
+they learned.
+
+
+Given I'm a pediatric patient
+When I watch the videos played by Robe-E robots about STEM subjects
+Then the system provides corresponding quizzes, which when completed the system shows correct answers 

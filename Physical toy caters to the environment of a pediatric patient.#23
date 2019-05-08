@@ -1,0 +1,12 @@
+Physical toy caters to the environment of a pediatric patient.#23
+
+As a pediatric patient,
+I want Rube-E to be accessible while I am in bed
+So that I can even lie down and interact with it directly without asking anyone to help me get it
+
+Sub Hill 6: The toy would be used by in-patient on their bedside and they can engage
+with it alone without requiring anyone help.
+
+"Given I'm a pediatric patient,
+When I lie down on the bed and want to play the toy
+Then I can get in touch with Rube-E because it is within the area where I can reach."

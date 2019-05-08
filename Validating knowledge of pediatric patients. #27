@@ -1,0 +1,18 @@
+Validating knowledge of pediatric patients. #27
+
+As a pediatric patient,
+I want to finish a short quiz,
+so that I can review if my understanding of what I have learned is correct.
+
+Sub Hill 3: The patient finishes a module by exploring each part and viewing the
+animated video and the short quiz post that would gauze what have
+they learned.
+
+
+Scenario: User watches videos and completes quizzes 
+
+Acceptance criteria 2
+Given I'm a pediatric patient
+When I watch videos played by Robe-E about STEM subjects
+Then it provides a corresponding quiz, which when completed, the system shows the correct answers
+
